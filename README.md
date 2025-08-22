@@ -1,5 +1,6 @@
 # RoboHacks-2025
 Autonomous Reforestation Robot Project
+Team: Louis Zhang, Dongshen Guan, Yuehan Li, Isabel Von
 
 **Winner of Unexpected Expedition Award, 5th place finisher overall**
 
