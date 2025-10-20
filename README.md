@@ -10,3 +10,5 @@ real-time navigation, obstacle avoidance, and precise seed deployment.
 • Designed and optimized a microcontroller-based system with servo motors and rechargeable
 batteries, ensuring energy efficiency, sustainability, and reliable performance under competition
 constraints.
+• Designed and built a line-following seed-planting robot using Arduino, capable of planting 2 seeds in designated zones while
+skipping areas based on color detection.
